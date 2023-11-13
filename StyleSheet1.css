@@ -1,0 +1,35 @@
+﻿html {
+    background: url(cover.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+body {
+   
+}
+.bckcolor {
+
+}
+hr{
+    border-color:black;
+    border-width:2px;
+    border-bottom-left-radius:5rem;
+   }
+.txt-color{
+   color:#ffffff;
+
+}
+
+.btn-color{
+    background-color:red;
+    border:red;
+
+}
+    .btn-color:hover {
+        background-color: #ff6a00;
+        border: #ff6a00;
+        border-width:3px;
+        border-height:5px;
+    }
+    .buffer{
+        height:5rem;
+    }
